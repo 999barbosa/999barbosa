@@ -15,10 +15,7 @@
 </div>
 
 <!-- GitHub stats -->
-<div align="center" style="display:flex;justify-content:center;gap:20px;flex-wrap:wrap;margin:30px 0">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BarbosaCoder&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=2575fc&text_color=ffffff&icon_color=6a11cb&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarbosaCoder&layout=compact&langs_count=7&theme=radical&hide_border=true&bg_color=00000000&title_color=2575fc&text_color=ffffff"/>
-</div>
+
 
 <!-- Trophies -->
 <div align="center" style="margin:30px 0">
